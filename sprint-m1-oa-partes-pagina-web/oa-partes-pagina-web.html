@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Las partes de una página web - OA Gamificado</title>
+</head>
+<body>
+    <!-- HEADER - Encabezado de la página -->
+    <header>
+        <h1>Las partes de una página web</h1>
+        <p>Aprende la estructura básica de HTML</p>
+    </header>
+
+    <!-- NAV - Navegación / Menú -->
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#partes">Las 4 partes</a></li>
+            <li><a href="#actividades">Actividades</a></li>
+        </ul>
+    </nav>
+
+    <!-- MAIN - Contenido principal -->
+    <main>
+        <!-- Sección: Qué es una página web -->
+        <section id="inicio">
+            <h2>¿Qué es una página web?</h2>
+            <p>Una página web es un archivo de texto con instrucciones. El navegador lee esas instrucciones y dibuja la página. Las instrucciones se llaman <strong>etiquetas HTML</strong>.</p>
+            <figure>
+                <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_documents/sample-website.png" alt="Estructura básica de una página HTML5 con header, nav, main, footer" width="500">
+                <figcaption>Estructura semántica básica de HTML5 (fuente: MDN Web Docs)</figcaption>
+            </figure>
+        </section>
+
+        <!-- Sección: Las 4 partes principales -->
+        <section id="partes">
+            <h2>Las 4 partes principales</h2>
+            <p>Toda página web tiene una estructura parecida a una casa con 4 partes:</p>
+
+            <!-- Parte 1: Header -->
+            <article>
+                <h3>1. Encabezado (<header>)</h3>
+                <p>Es la parte de arriba de la página. Aquí va el título del sitio o el logo. Es lo primero que ve el visitante.</p>
+                <p><em>Ejemplo: El nombre de tu blog o el logo de una tienda.</em></p>
+                <figure>
+                    <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_a_page_of_content/example-page.png" alt="Ejemplo de header con título y logo" width="500">
+                    <figcaption>Ejemplo de encabezado (header) - Fuente: MDN Web Docs</figcaption>
+                </figure>
+            </article>
+
+            <!-- Parte 2: Nav -->
+            <article>
+                <h3>2. Navegación (<nav>)</h3>
+                <p>Es el menú para ir a otras páginas. Tiene enlaces como "Inicio", "Sobre mí", "Contacto". Ayuda a moverse por el sitio.</p>
+                <p><em>Ejemplo: Una barra con botones para ir a distintas secciones.</em></p>
+                <figure>
+                    <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_documents/sample-website.png" alt="Ejemplo de barra de navegación con enlaces" width="500">
+                    <figcaption>Ejemplo de navegación (nav) - Fuente: MDN Web Docs</figcaption>
+                </figure>
+            </article>
+
+            <!-- Parte 3: Main -->
+            <article>
+                <h3>3. Contenido principal (<main>)</h3>
+                <p>Es el centro de la página. Aquí va la información importante: artículos, textos, imágenes, videos.</p>
+                <p><em>Ejemplo: El texto que estás leyendo ahora está en el main.</em></p>
+                <figure>
+                    <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_a_page_of_content/example-page.png" alt="Ejemplo de contenido principal en main" width="500">
+                    <figcaption>Ejemplo de contenido principal (main) - Fuente: MDN Web Docs</figcaption>
+                </figure>
+            </article>
+
+            <!-- Parte 4: Footer -->
+            <article>
+                <h3>4. Pie de página (<footer>)</h3>
+                <p>Es la parte de abajo. Aquí va el copyright, datos de contacto, redes sociales. Cierra la página.</p>
+                <p><em>Ejemplo: "© 2026 Mi sitio - Contacto: email@ejemplo.com"</em></p>
+                <figure>
+                    <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_documents/sample-website.png" alt="Ejemplo de footer con copyright y enlaces" width="500">
+                    <figcaption>Ejemplo de pie de página (footer) - Fuente: MDN Web Docs</figcaption>
+                </figure>
+            </article>
+        </section>
+
+        <!-- Sección: Actividades -->
+        <section id="actividades">
+            <h2>Actividades para practicar</h2>
+
+            <!-- Actividad 1: Opción múltiple -->
+            <article>
+                <h3>Actividad 1: Opción múltiple</h3>
+                <p><strong>Pregunta:</strong> ¿Qué etiqueta se usa para el contenido principal de la página?</p>
+                <ul>
+                    <li>A) <header></li>
+                    <li>B) <nav></li>
+                    <li>C) <main> <em>(correcta)</em></li>
+                    <li>D) <footer></li>
+                </ul>
+                <p><strong>Retroalimentación:</strong></p>
+                <ul>
+                    <li>Correcta (C): ¡Bien! <main> es donde va el contenido principal.</li>
+                    <li>Incorrecta (A): <header> es el encabezado, arriba de todo.</li>
+                    <li>Incorrecta (B): <nav> es la navegación, el menú.</li>
+                    <li>Incorrecta (D): <footer> es el pie de página, abajo de todo.</li>
+                </ul>
+            </article>
+
+            <!-- Actividad 2: Completar -->
+            <article>
+                <h3>Actividad 2: Completar el código</h3>
+                <p>Completá las etiquetas que faltan:</p>
+                <pre><code><!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi página</title>
+</head>
+<body>
+    <______>Título del sitio</______>
+    <______>Menú: Inicio | Contacto</______>
+    <______>Contenido principal aquí</______>
+    <______>© 2026 - Mi sitio</______>
+</body>
+</html></code></pre>
+                <p><strong>Respuestas:</strong> header / header · nav / nav · main / main · footer / footer</p>
+                <p><strong>Retroalimentación:</strong></p>
+                <ul>
+                    <li>Todo correcto: ¡Perfecto! Recordaste las 4 partes en orden.</li>
+                    <li>Algunas malas: Revisá el orden: header → nav → main → footer.</li>
+                    <li>Ninguna correcta: Volvé a leer la explicación de las 4 partes.</li>
+                </ul>
+            </article>
+        </section>
+    </main>
+
+    <!-- FOOTER - Pie de página -->
+    <footer>
+        <p>Las partes de una página web - OA Gamificado</p>
+        <p>Felipe Machado</p>
+    </footer>
+</body>
+</html>
