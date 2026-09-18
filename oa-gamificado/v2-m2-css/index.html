@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>El Clásico de las Páginas Web - OA Gamificado</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- HEADER - El escudo y la camiseta -->
+    <header>
+        <h1>⚽ El Clásico de las Páginas Web</h1>
+        <p>Armá tu formación: las 4 partes de una página web</p>
+    </header>
+
+    <!-- NAV - El mediocampo -->
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#formacion">La Formación</a></li>
+            <li><a href="#actividades">Actividades</a></li>
+        </ul>
+    </nav>
+
+    <!-- MAIN - La delantera -->
+    <main>
+        <!-- Sección: Qué es una página web -->
+        <section id="inicio">
+            <h2>¿Qué es una página web?</h2>
+            <p>Una página web es un archivo de texto con instrucciones. El navegador lee esas instrucciones y dibuja la página. Las instrucciones se llaman <strong>etiquetas HTML</strong>.</p>
+            <p>Como un equipo de fútbol, toda página tiene una <strong>formación</strong>: cada jugador (etiqueta) ocupa su posición.</p>
+            <figure>
+                <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_documents/sample-website.png" alt="Estructura básica de una página HTML5 con header, nav, main, footer" width="500">
+                <figcaption>La formación de la página (fuente: MDN Web Docs)</figcaption>
+            </figure>
+        </section>
+
+        <!-- Sección: La Formación (las 4 partes) -->
+        <section id="formacion">
+            <h2>La Formación: las 4 partes principales</h2>
+            <p>Como DT, tenés que ubicar a cada jugador en su posición:</p>
+
+            <!-- Parte 1: Header = El escudo -->
+            <article>
+                <h3>1. El escudo y la camiseta (&lt;header&gt;)</h3>
+                <p>Es la parte de arriba de la página. Aquí va el título del sitio o el logo. Es lo primero que ve el visitante — como el escudo que identifica al club.</p>
+                <p><em>Ejemplo: El nombre de tu blog o el logo de una tienda.</em></p>
+                <figure>
+                    <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_a_page_of_content/example-page.png" alt="Ejemplo de header con título y logo" width="500">
+                    <figcaption>El escudo del club (header) - Fuente: MDN Web Docs</figcaption>
+                </figure>
+            </article>
+
+            <!-- Parte 2: Nav = El mediocampo -->
+            <article>
+                <h3>2. El mediocampo (&lt;nav&gt;)</h3>
+                <p>Es el menú para ir a otras páginas. Tiene enlaces como "Inicio", "Sobre mí", "Contacto". Como los volantes, conecta todo el equipo y ayuda a moverse por el sitio.</p>
+                <p><em>Ejemplo: Una barra con botones para ir a distintas secciones.</em></p>
+                <figure>
+                    <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_documents/sample-website.png" alt="Ejemplo de barra de navegación con enlaces" width="500">
+                    <figcaption>El mediocampo (nav) - Fuente: MDN Web Docs</figcaption>
+                </figure>
+            </article>
+
+            <!-- Parte 3: Main = La delantera -->
+            <article>
+                <h3>3. La delantera (&lt;main&gt;)</h3>
+                <p>Es el centro de la página. Aquí va la información importante: artículos, textos, imágenes, videos. Es el ataque: lo que define el partido.</p>
+                <p><em>Ejemplo: El texto que estás leyendo ahora está en el main.</em></p>
+                <figure>
+                    <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_a_page_of_content/example-page.png" alt="Ejemplo de contenido principal en main" width="500">
+                    <figcaption>La delantera (main) - Fuente: MDN Web Docs</figcaption>
+                </figure>
+            </article>
+
+            <!-- Parte 4: Footer = La defensa -->
+            <article>
+                <h3>4. La defensa y el arquero (&lt;footer&gt;)</h3>
+                <p>Es la parte de abajo. Aquí va el copyright, datos de contacto, redes sociales. Como la defensa, sostiene al equipo y cierra la página.</p>
+                <p><em>Ejemplo: "© 2026 Mi sitio - Contacto: email@ejemplo.com"</em></p>
+                <figure>
+                    <img src="https://raw.githubusercontent.com/mdn/content/main/files/en-us/learn_web_development/core/structuring_content/structuring_documents/sample-website.png" alt="Ejemplo de footer con copyright y enlaces" width="500">
+                    <figcaption>La defensa (footer) - Fuente: MDN Web Docs</figcaption>
+                </figure>
+            </article>
+        </section>
+
+        <!-- Sección: Actividades -->
+        <section id="actividades">
+            <h2>🏆 Actividades para practicar</h2>
+
+            <!-- Actividad 1: Opción múltiple -->
+            <article>
+                <h3>Actividad 1: Opción múltiple</h3>
+                <p><strong>Pregunta:</strong> ¿Qué etiqueta se usa para el contenido principal de la página (la delantera)?</p>
+                <ul>
+                    <li>A) &lt;header&gt;</li>
+                    <li>B) &lt;nav&gt;</li>
+                    <li>C) &lt;main&gt; <em>(correcta)</em></li>
+                    <li>D) &lt;footer&gt;</li>
+                </ul>
+                <p><strong>Retroalimentación:</strong></p>
+                <ul>
+                    <li>Correcta (C): ¡Gol! &lt;main&gt; es donde va el contenido principal.</li>
+                    <li>Incorrecta (A): &lt;header&gt; es el escudo, arriba de todo.</li>
+                    <li>Incorrecta (B): &lt;nav&gt; es el mediocampo, el menú.</li>
+                    <li>Incorrecta (D): &lt;footer&gt; es la defensa, abajo de todo.</li>
+                </ul>
+            </article>
+
+            <!-- Actividad 2: Completar -->
+            <article>
+                <h3>Actividad 2: Completar el código</h3>
+                <p>Completá las etiquetas que faltan para armar la formación:</p>
+                <pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang="es"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;title&gt;Mi página&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;______&gt;Título del sitio&lt;/______&gt;
+    &lt;______&gt;Menú: Inicio | Contacto&lt;/______&gt;
+    &lt;______&gt;Contenido principal aquí&lt;/______&gt;
+    &lt;______&gt;© 2026 - Mi sitio&lt;/______&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+                <p><strong>Respuestas:</strong> header / header · nav / nav · main / main · footer / footer</p>
+                <p><strong>Retroalimentación:</strong></p>
+                <ul>
+                    <li>Todo correcto: ¡Formación perfecta! Recordaste las 4 partes en orden.</li>
+                    <li>Algunas malas: Revisá el orden: header → nav → main → footer.</li>
+                    <li>Ninguna correcta: Volvé a leer la explicación de las 4 partes.</li>
+                </ul>
+            </article>
+        </section>
+    </main>
+
+    <!-- FOOTER - La defensa -->
+    <footer>
+        <p>⚽ El Clásico de las Páginas Web - OA Gamificado</p>
+        <p>Felipe Machado</p>
+    </footer>
+</body>
+</html>
