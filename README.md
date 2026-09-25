@@ -19,3 +19,4 @@ El curso tiene dos tipos de entregas:
 | 3.2.1.2 | Laboratorio CSS "ESTILOCORE" (18/18 pasos, 10/10) | [certificado-estilocore.pdf](3.2.1.2-laboratorio-css/certificado-estilocore.pdf) |
 | Sprint M2 | OA "Las partes de una página web" (v2 - CSS) | [oa-gamificado/v2-m2-css/](oa-gamificado/v2-m2-css/) |
 | Práctica Cap.1 | Práctica "Selectores CSS" — Café Aroma (10/10) | [reporte-croma-felipe-machado.pdf](practica-selectores-css/reporte-croma-felipe-machado.pdf) |
+| 3.2.2.1 | Laboratorio Modelo de Caja "BOXCORE" (12/12, 10/10) | [certificado-boxcore.pdf](laboratorio-modelo-caja/certificado-boxcore.pdf) |
