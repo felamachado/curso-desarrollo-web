@@ -1,4 +1,37 @@
+# Sistema operativo / editores
 .DS_Store
 Thumbs.db
+desktop.ini
 *.tmp
 *.swp
+*~
+.vscode/
+.idea/
+
+# Secretos — nunca en un repo público
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+.netrc
+credentials.json
+
+# Artefactos de Schoology / automatización (contienen cookies y sesión)
+session_state.json
+.chrome-profile/
+.cdp_endpoint
+knowledge_base.json
+task_recipes.json
+learnings.jsonl
+
+# Proceso y material de trabajo — viven en Curso_Desarrollo_Web_Material/, fuera del repo
+scratch/
+screenshots/
+screenshots_quiz/
+*.log
+
+# NOTA: los PDF SÍ se versionan a propósito — son los entregables del curso
+# (expedientes, certificados y reportes). No agregar "*.pdf" acá.
+# Los PDF accidentales se ignoran vía scratch/ y screenshots/ de arriba.
