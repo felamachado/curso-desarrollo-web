@@ -1,6 +1,6 @@
 # Propuesta de Entrega - Módulo 1: Sprint M1 - Planificación del OA
 
-**Estudiante:** [Tu nombre]
+**Estudiante:** Felipe Machado
 **Fecha:** 2026-08-25
 **Módulo:** 01-fundamentos-html / Sprint M1
 

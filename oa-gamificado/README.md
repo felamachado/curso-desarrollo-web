@@ -7,7 +7,7 @@ Objeto de Aprendizaje que se construye **entrega a entrega** a lo largo de todo 
 | Versión | Módulo | Qué se agrega | Estado |
 |---------|--------|---------------|--------|
 | v1-m1-html | M1 · Fundamentos de HTML | Estructura semántica (header, nav, main, footer) + contenido + actividades | ✅ Entregado |
-| v2-m2-css | M2 · CSS y Maquetación | Narrativa "El Clásico de las Páginas Web" + styles.css (paleta, tipografía, espaciado) | 🛠️ Construido (pendiente entrega en Schoology) |
+| v2-m2-css | M2 · CSS y Maquetación | Narrativa "El Clásico de las Páginas Web" + styles.css (paleta, tipografía, espaciado) | ✅ Entregado |
 | v3-m3-js | M3 · JavaScript Básico | Interactividad, evaluación con retroalimentación automática | ⏳ Pendiente |
 | v4-m4-js-avanzado | M4 · JavaScript Avanzado | ES6+, módulos | ⏳ Pendiente |
 | v5-m5-react | M5 · Frameworks Frontend | Componentes, routing | ⏳ Pendiente |

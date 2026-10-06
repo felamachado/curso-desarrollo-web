@@ -20,3 +20,15 @@ El curso tiene dos tipos de entregas:
 | Sprint M2 | OA "Las partes de una página web" (v2 - CSS) | [oa-gamificado/v2-m2-css/](oa-gamificado/v2-m2-css/) |
 | Práctica Cap.1 | Práctica "Selectores CSS" — Café Aroma (10/10) | [reporte-croma-felipe-machado.pdf](practica-selectores-css/reporte-croma-felipe-machado.pdf) |
 | 3.2.2.1 | Laboratorio Modelo de Caja "BOXCORE" (12/12, 10/10) | [certificado-boxcore.pdf](laboratorio-modelo-caja/certificado-boxcore.pdf) |
+
+> **Nota sobre la numeración de la Práctica HTML:** en Schoology esta tarea aparece duplicada como `3.1.1.5 - Práctica HTML` y `3.1.2 - Práctica HTML`, pero **es la misma entrega** (mismo assignment, id `8524905188`; Expediente R.A.Í.Z., 10/10). La carpeta del repositorio se llama [`3.1.2-practica-html/`](3.1.2-practica-html/), siguiendo la segunda nomenclatura. No falta ninguna entrega.
+
+## Prácticas guiadas — sin entregable
+
+Prácticas web externas que se completaron, pero que **no generan archivo para este repositorio**: son sitios que guardan el progreso en el `localStorage` del navegador, sin dropbox ni nota en Schoology. Se registran acá solo como constancia de que se hicieron; el único archivo que conserva el avance es el perfil del navegador.
+
+| Práctica | Sitio | Resultado |
+|----------|-------|-----------|
+| BOXFLOW | [dw-boxflex.pages.dev](https://dw-boxflex.pages.dev) | 4/4 módulos · 48/48 pasos · sin reintentos |
+| GLOWFLOW | [dw-maquetado-glowflow.pages.dev](https://dw-maquetado-glowflow.pages.dev) | 4/4 módulos · 48/48 pasos · sin reintentos |
+| GAMIFLOW | [dw-gamecore.pages.dev](https://dw-gamecore.pages.dev) | 4/4 módulos · 48/48 pasos · sin reintentos |
