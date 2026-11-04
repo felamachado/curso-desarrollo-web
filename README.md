@@ -20,6 +20,7 @@ El curso tiene dos tipos de entregas:
 | Sprint M2 | OA "Las partes de una página web" (v2 - CSS) | [oa-gamificado/v2-m2-css/](oa-gamificado/v2-m2-css/) |
 | Práctica Cap.1 | Práctica "Selectores CSS" — Café Aroma (10/10) | [reporte-croma-felipe-machado.pdf](practica-selectores-css/reporte-croma-felipe-machado.pdf) |
 | 3.2.2.1 | Laboratorio Modelo de Caja "BOXCORE" (12/12, 10/10) | [certificado-boxcore.pdf](laboratorio-modelo-caja/certificado-boxcore.pdf) |
+| 3.3.1.1 | Repaso Prog Cap 1 JSCORE (12/12, 10/10) | [certificado-jscore-cap1.pdf](3.3.1.1-repaso-prog-cap1/certificado-jscore-cap1.pdf) |
 
 > **Nota sobre la numeración de la Práctica HTML:** en Schoology esta tarea aparece duplicada como `3.1.1.5 - Práctica HTML` y `3.1.2 - Práctica HTML`, pero **es la misma entrega** (mismo assignment, id `8524905188`; Expediente R.A.Í.Z., 10/10). La carpeta del repositorio se llama [`3.1.2-practica-html/`](3.1.2-practica-html/), siguiendo la segunda nomenclatura. No falta ninguna entrega.
 
