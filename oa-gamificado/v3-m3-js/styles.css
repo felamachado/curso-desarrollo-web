@@ -75,6 +75,7 @@ header h1 {
     max-width: 560px;
     margin: 1.4rem auto 0;
     text-align: left;
+    color: var(--blanco);
     background-color: rgba(0, 0, 0, 0.18);
     border: 1px solid rgba(255, 255, 255, 0.35);
     border-radius: 10px;
@@ -204,7 +205,7 @@ article figure {
     text-align: center;
 }
 
-article img {
+figure img {
     width: 100%;
     height: auto;
     border-radius: 4px;
