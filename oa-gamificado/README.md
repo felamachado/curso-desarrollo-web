@@ -8,7 +8,7 @@ Objeto de Aprendizaje que se construye **entrega a entrega** a lo largo de todo 
 |---------|--------|---------------|--------|
 | v1-m1-html | M1 · Fundamentos de HTML | Estructura semántica (header, nav, main, footer) + contenido + actividades | ✅ Entregado |
 | v2-m2-css | M2 · CSS y Maquetación | Narrativa "El Clásico de las Páginas Web" + styles.css (paleta, tipografía, espaciado) | ✅ Entregado |
-| v3-m3-js | M3 · JavaScript Básico | Interactividad, evaluación con retroalimentación automática | ⏳ Pendiente |
+| v3-m3-js | M3 · JavaScript Básico | Formularios reales, corrección automática, feedback con DOM y gamificación con puntos | ✅ Entregado |
 | v4-m4-js-avanzado | M4 · JavaScript Avanzado | ES6+, módulos | ⏳ Pendiente |
 | v5-m5-react | M5 · Frameworks Frontend | Componentes, routing | ⏳ Pendiente |
 | v6-m6-backend | M6 · Backend Node.js | API REST con Express | ⏳ Pendiente |
@@ -27,3 +27,10 @@ Objeto de Aprendizaje que se construye **entrega a entrega** a lo largo de todo 
 - [diseno.md](v2-m2-css/diseno.md) — narrativa "El Clásico de las Páginas Web" (DT, mapa de jugadores, mockup, paleta/tipografía, nota IAG)
 - [styles.css](v2-m2-css/styles.css) — hoja de estilos (paleta celeste/blanco/dorado, fuentes Oswald + Roboto, espaciado)
 - [index.html](v2-m2-css/index.html) — OA de M1 ampliado con la narrativa futbolera y enlazado a `styles.css`
+
+## v3-m3-js (Sprint M3)
+
+- [index.html](v3-m3-js/index.html) — OA de M2 con sección de público/objetivos, video y las dos actividades convertidas en formularios reales
+- [styles.css](v3-m3-js/styles.css) — estilos de formularios, feedback (acierto/error/aviso), tablero y barra de progreso
+- [script.js](v3-m3-js/script.js) — lógica de corrección, feedback con DOM y gamificación con puntos (+10 acierto / −3 error)
+- [diseno.md](v3-m3-js/diseno.md) — documento de diseño consolidado de los tres sprints (planificación, narrativa, estilos, lógica JS y ajustes aplicados)

@@ -23,6 +23,7 @@ El curso tiene dos tipos de entregas:
 | 3.3.1.1 | Repaso Prog Cap 1 JSCORE (12/12, 10/10) | [certificado-jscore-cap1.pdf](3.3.1.1-repaso-prog-cap1/certificado-jscore-cap1.pdf) |
 | 3.3.1.2 | Repaso Prog Cap 2 JSCORE (14/14, 10/10) | [certificado-jscore-cap2.pdf](3.3.1.2-repaso-prog-cap2/certificado-jscore-cap2.pdf) |
 | 3.3.2.1 | Laboratorio DOM "DOMCORE" (12/12, 10/10) | [certificado-domcore.pdf](3.3.2.1-laboratorio-dom/certificado-domcore.pdf) |
+| Sprint M3 | OA "Las partes de una página web" (v3 - JavaScript) | [oa-gamificado/v3-m3-js/](oa-gamificado/v3-m3-js/) |
 
 > **Nota sobre la numeración de la Práctica HTML:** en Schoology esta tarea aparece duplicada como `3.1.1.5 - Práctica HTML` y `3.1.2 - Práctica HTML`, pero **es la misma entrega** (mismo assignment, id `8524905188`; Expediente R.A.Í.Z., 10/10). La carpeta del repositorio se llama [`3.1.2-practica-html/`](3.1.2-practica-html/), siguiendo la segunda nomenclatura. No falta ninguna entrega.
 
