@@ -19,12 +19,12 @@ Objeto de Aprendizaje que se construye **entrega a entrega** a lo largo de todo 
 
 ## v1-m1-html (Sprint M1)
 
-- [diseno.md](v1-m1-html/diseno.md) — documento de diseño (tema, objetivo, contenido, actividades, nota IAG)
+- [diseno.md](v1-m1-html/diseno.md) — documento de diseño (tema, objetivo, contenido, actividades)
 - [index.html](v1-m1-html/index.html) — OA maquetado en HTML semántico
 
 ## v2-m2-css (Sprint M2)
 
-- [diseno.md](v2-m2-css/diseno.md) — narrativa "El Clásico de las Páginas Web" (DT, mapa de jugadores, mockup, paleta/tipografía, nota IAG)
+- [diseno.md](v2-m2-css/diseno.md) — narrativa "El Clásico de las Páginas Web" (DT, mapa de jugadores, mockup, paleta/tipografía)
 - [styles.css](v2-m2-css/styles.css) — hoja de estilos (paleta celeste/blanco/dorado, fuentes Oswald + Roboto, espaciado)
 - [index.html](v2-m2-css/index.html) — OA de M1 ampliado con la narrativa futbolera y enlazado a `styles.css`
 

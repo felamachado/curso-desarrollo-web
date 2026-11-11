@@ -131,19 +131,3 @@ Toda página web tiene una estructura parecida a una casa:
 
 ### 5. Maquetado HTML (archivo separado)
 Ver archivo: `oa-partes-pagina-web.html`
-
----
-
-## PRODUCTO FINAL - Nota sobre IAG
-
-**Materiales generados con IAG y cómo los revisé:**
-
-1. **Imágenes del diagrama de las 4 partes:** Obtenidas de **MDN Web Docs** (Mozilla Developer Network), fuente educativa oficial. URLs directas a `sample-website.png` y `example-page.png` del repositorio de MDN. Verifiqué que las imágenes muestren la estructura semántica HTML5 correcta (header, nav, main, footer).
-
-2. **Redacción de la explicación:** Usé ChatGPT para simplificar el texto a "lectura fácil" (frases cortas, palabras cotidianas). Revisé que no haya tecnicismos y que el orden sea header → nav → main → footer.
-
-3. **Actividad de opción múltiple:** Generada con ayuda de IA para la redacción de retroalimentación. Verifiqué que la respuesta correcta sea `<main>` y que las incorrectas correspondan a las otras 3 etiquetas.
-
-4. **Actividad completar:** Diseñada por mí basada en el esqueleto HTML visto en clase (DOCTYPE, html, head, body).
-
-**Todo el contenido fue revisado por mí antes de incluirlo.** La estructura HTML la escribí yo manualmente aplicando lo visto en el Módulo 1.

@@ -190,21 +190,6 @@ Los puntos están conectados con la narrativa (son goles del clásico) y con las
 
 ---
 
-## PRODUCTO FINAL — Nota sobre IAG
-
-**Materiales generados con inteligencia artificial y cómo los revisé:**
-
-1. **Imágenes:** provienen de **MDN Web Docs** (Mozilla Developer Network), fuente educativa oficial. Verifiqué que muestren la estructura semántica HTML5 correcta (header, nav, main, footer).
-2. **Redacción:** usé IA para simplificar la explicación a lectura fácil (frases cortas, palabras cotidianas) y para proponer la narrativa futbolística. Revisé el orden header → nav → main → footer y que cada analogía sea conceptualmente correcta.
-3. **Paleta y tipografía:** la IA propuso la paleta celeste/blanco/dorado (colores de la selección). La verifiqué con la teoría del círculo cromático: celeste y dorado son casi complementarios y tienen buen contraste sobre fondo oscuro.
-4. **CSS:** generado con ayuda de IA y revisado por mí: comprobé los selectores, el contraste texto/fondo y el espaciado.
-5. **JavaScript:** la lógica se escribió con asistencia de IA y la revisé función por función: probé la respuesta vacía, la correcta, la incorrecta, la repetición y el tope en 0 goles del marcador.
-6. **Video:** seleccionado por mí entre videos educativos en español y verificado con el servicio de YouTube antes de incluirlo.
-
-**Todo el contenido fue revisado por mí antes de incluirlo.** La estructura HTML parte del trabajo manual del Módulo 1 y se fue ampliando sprint a sprint.
-
----
-
 ## Cómo probar el OA
 
 1. Abrir `index.html` en un navegador (o la versión publicada en GitHub Pages).

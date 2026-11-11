@@ -88,16 +88,3 @@ El estudiante es el **director técnico (DT)** de un club de fútbol que debe ar
 Ver archivo: `styles.css` (enlazado al `index.html` con `<link rel="stylesheet">`).
 
 Aplica: fondo, color de texto, tipografía, espaciado (margin, padding, border) a header, nav, main, footer, articles y actividades.
-
----
-
-## PRODUCTO FINAL - Nota sobre IAG
-
-**Materiales generados con IAG en esta etapa y cómo los revisé:**
-
-1. **Narrativa:** La IA propuso varias opciones de narrativa (ciudad digital, fútbol, automovilismo). Elegí la futbolera rioplatense ("El Clásico de las Páginas Web") porque conecta con el contexto cultural y hace el contenido accesible. Revisé el mapeo de las 4 partes a las líneas del equipo y lo ajusté para que cada analogía sea correcta.
-2. **Paleta:** La IA sugirió la paleta celeste/blanco/dorado (colores de la selección). La verifiqué con la teoría del círculo cromático del recurso Shanuki: celeste y dorado son casi complementarios, con buen contraste sobre fondo oscuro.
-3. **CSS:** El `styles.css` fue generado con ayuda de IA y revisado por mí: verifiqué que los selectores apunten a las etiquetas correctas (header, nav, main, footer), que el contraste texto/fondo sea accesible y que el espaciado sea equilibrado.
-4. **Mockup:** Boceto realizado a partir de la estructura del Módulo 1, con anotaciones de paleta y tipografía.
-
-**Todo el contenido fue revisado por mí antes de incluirlo.** La estructura HTML es la del Módulo 1 (escrita manualmente), ampliada con la narrativa y el enlace al CSS.
